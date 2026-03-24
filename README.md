@@ -10,7 +10,7 @@ This repository exists to provide a fully working OCaml development environment 
 
 * ocamlformat
 
-* utop (I hate you)
+* utop (fuck you)
 
 * odoc
 
